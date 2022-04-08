@@ -1,3 +1,5 @@
+-- haha you thought i release free esp loll
+
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
