@@ -2,6 +2,9 @@
 
 -- added names.
 -- added color.
+print("- blinx's slient aim with esp executed.")
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blinxgh/silentaim_/main/silent.lua", true))()
 
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
